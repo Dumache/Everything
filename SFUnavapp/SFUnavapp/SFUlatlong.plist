@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Building</key>
+		<string>Education Building</string>
+		<key>Latitude</key>
+		<string>49.279984</string>
+		<key>Longitude</key>
+		<string>-122.915610</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>W.A.C Bennet Library</string>
+		<key>Latitude</key>
+		<string>49.279372</string>
+		<key>Longitude</key>
+		<string>-122.918755</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Technology and Science Complex I</string>
+		<key>Latitude</key>
+		<string>49.276755</string>
+		<key>Longitude</key>
+		<string>-122.914537</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Saywell Hall</string>
+		<key>Latitude</key>
+		<string>49.279420</string>
+		<key>Longitude</key>
+		<string>-122.914417</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Academic Quadrangle</string>
+		<key>Latitude</key>
+		<string>49.278710</string>
+		<key>Longitude</key>
+		<string>-122.916278</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Applied Science Building</string>
+		<key>Latitude</key>
+		<string>49.277506</string>
+		<key>Longitude</key>
+		<string>-122.914240</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Robert C Brown Hall</string>
+		<key>Latitude</key>
+		<string>49.280117</string>
+		<key>Longitude</key>
+		<string>-122.916868</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Blusson Hall</string>
+		<key>Latitude</key>
+		<string>49.279196</string>
+		<key>Longitude</key>
+		<string>-122.912807</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Maggie Benston Centre</string>
+		<key>Latitude</key>
+		<string>49.279017</string>
+		<key>Longitude</key>
+		<string>-122.919189</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>West Mall Centre</string>
+		<key>Latitude</key>
+		<string>49.279841</string>
+		<key>Longitude</key>
+		<string>-122.922215</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Lorne Davies Complex</string>
+		<key>Latitude</key>
+		<string>49.279426</string>
+		<key>Longitude</key>
+		<string>-122.922200</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Dining Hall</string>
+		<key>Latitude</key>
+		<string>49.279914</string>
+		<key>Longitude</key>
+		<string>-122.924540</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Nester&apos;s Market</string>
+		<key>Latitude</key>
+		<string>49.277779</string>
+		<key>Longitude</key>
+		<string>-122.910230</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Facilities Services</string>
+		<key>Latitude</key>
+		<string>49.275879</string>
+		<key>Longitude</key>
+		<string>-122.913207</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Transportation Centre</string>
+		<key>Latitude</key>
+		<string>49.279503</string>
+		<key>Longitude</key>
+		<string>-122.920285</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Tim Hortons</string>
+		<key>Latitude</key>
+		<string>49.279787</string>
+		<key>Longitude</key>
+		<string>-122.921437</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Jugo Juice</string>
+		<key>Latitude</key>
+		<string>49.279402</string>
+		<key>Longitude</key>
+		<string>-122.915716</string>
+	</dict>
+	<dict>
+		<key>Building</key>
+		<string>Makenzie Cafe</string>
+		<key>Latitude</key>
+		<string>49.278779</string>
+		<key>Longitude</key>
+		<string>-122.915482</string>
+	</dict>
+</array>
+</plist>

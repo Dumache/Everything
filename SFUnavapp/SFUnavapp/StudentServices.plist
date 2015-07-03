@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>contactInfo</key>
+			<string>reginfo@sfu.ca</string>
+			<key>contactDetail</key>
+			<string>Enrollment, Record, Documents</string>
+			<key>contactType</key>
+			<string>Email</string>
+		</dict>
+		<dict>
+			<key>contactInfo</key>
+			<string>778-782-6930</string>
+			<key>contactDetail</key>
+			<string>General Student Services</string>
+			<key>contactType</key>
+			<string>Phone</string>
+		</dict>
+		<dict>
+			<key>contactInfo</key>
+			<string>Maggie Benston Centre 3200</string>
+			<key>contactDetail</key>
+			<string>M T W Th: 9:00 am – 6:00 pm
+F: 10:00 am – 4:30 pm
+Opens at 8 am during enrollment period</string>
+			<key>contactType</key>
+			<string>In Person</string>
+		</dict>
+		<dict>
+			<key>contactInfo</key>
+			<string>778-383-7663</string>
+			<key>contactDetail</key>
+			<string>Send a text to get in line</string>
+			<key>contactType</key>
+			<string>Text</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>contactInfo</key>
+			<string>career_services@sfu.ca</string>
+			<key>contactDetail</key>
+			<string>For general inquiries</string>
+			<key>contactType</key>
+			<string>Email</string>
+		</dict>
+		<dict>
+			<key>contactInfo</key>
+			<string>778-782-3106</string>
+			<key>contactDetail</key>
+			<string>Book an appointment</string>
+			<key>contactType</key>
+			<string>Phone</string>
+		</dict>
+		<dict>
+			<key>contactInfo</key>
+			<string>Maggie Benston Centre 0300</string>
+			<key>contactDetail</key>
+			<string></string>
+			<key>contactType</key>
+			<string>In Person</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>contactInfo</key>
+			<string>fiassist@sfu.ca</string>
+			<key>contactDetail</key>
+			<string>Financial Aid and Awards</string>
+			<key>contactType</key>
+			<string>Email</string>
+		</dict>
+		<dict>
+			<key>contactInfo</key>
+			<string>Maggie Benston Centre 3200</string>
+			<key>contactDetail</key>
+			<string>M T Th: 9:30 am – 3:30 pm
+W: 9:30 am – 2:00 pm
+F: 10:00 am – 3:30 pm</string>
+			<key>contactType</key>
+			<string>In Person</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>contactInfo</key>
+			<string>intake@sfu.ca</string>
+			<key>contactDetail</key>
+			<string>For questions about counselling services</string>
+			<key>contactType</key>
+			<string>Email</string>
+		</dict>
+		<dict>
+			<key>contactInfo</key>
+			<string>hcs_feedback@sfu.ca</string>
+			<key>contactDetail</key>
+			<string>For general inquiries</string>
+			<key>contactType</key>
+			<string>Email</string>
+		</dict>
+		<dict>
+			<key>contactInfo</key>
+			<string>778-782-4615</string>
+			<key>contactDetail</key>
+			<string>For general inquiries</string>
+			<key>contactType</key>
+			<string>Phone</string>
+		</dict>
+		<dict>
+			<key>contactInfo</key>
+			<string>Maggie Benston Centre 0101</string>
+			<key>contactDetail</key>
+			<string>Appointments are made in-person
+Monday to Friday:
+9:00 am - 4:30 pm</string>
+			<key>contactType</key>
+			<string>In Person</string>
+		</dict>
+		<dict>
+			<key>contactInfo</key>
+			<string>778-782-3284</string>
+			<key>contactDetail</key>
+			<string>Book a physiotherapy appointment</string>
+			<key>contactType</key>
+			<string>Phone</string>
+		</dict>
+	</array>
+</array>
+</plist>

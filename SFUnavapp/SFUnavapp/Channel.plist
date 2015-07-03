@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>channelname</key>
+		<string>Events Calendar</string>
+		<key>channelurl</key>
+		<string>https://events.sfu.ca/rss/calendar_id/2.xml</string>
+	</dict>
+	<dict>
+		<key>channelname</key>
+		<string>Academic Advising</string>
+		<key>channelurl</key>
+		<string>https://events.sfu.ca/rss/calendar_id/29.xml</string>
+	</dict>
+	<dict>
+		<key>channelname</key>
+		<string>Dates, Holidays, and Closures</string>
+		<key>channelurl</key>
+		<string>https://events.sfu.ca/rss/calendar_id/4.xml</string>
+	</dict>
+	<dict>
+		<key>channelname</key>
+		<string>Special Events</string>
+		<key>channelurl</key>
+		<string>https://events.sfu.ca/rss/item_type_id/12.xml</string>
+	</dict>
+</array>
+</plist>
